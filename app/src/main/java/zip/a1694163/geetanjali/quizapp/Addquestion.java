@@ -28,6 +28,7 @@ public class Addquestion extends AppCompatActivity {
 
     FirebaseDatabase database = FirebaseDatabase.getInstance();
     DatabaseReference myRef = database.getReference("Que");
+    int a;
 
 
     @Override
