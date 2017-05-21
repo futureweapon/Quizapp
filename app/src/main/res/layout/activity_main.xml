@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_main"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingBottom="16dp"
+android:paddingLeft="16dp"
+android:paddingRight="16dp"
+android:paddingTop="16dp"
+tools:context="zip.a1694163.geetanjali.quizapp.MainActivity">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:text="Welcome to quiz"
+    android:textSize="40sp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="160dp"
+    android:id="@+id/textview2"
+    >
+
+</TextView>
+<Button
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:text="proceed"
+    android:textSize="25sp"
+    android:id="@+id/button"
+    android:onClick="proceed"
+    android:layout_below="@+id/textview2"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="40dp"
+    >
+
+</Button>
+
+</RelativeLayout>

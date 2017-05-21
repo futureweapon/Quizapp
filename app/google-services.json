@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "843372131454",
+    "firebase_url": "https://quizapp-16a84.firebaseio.com",
+    "project_id": "quizapp-16a84",
+    "storage_bucket": "quizapp-16a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843372131454:android:a441ae115a4f8fc1",
+        "android_client_info": {
+          "package_name": "zip.a1694163.geetanjali.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843372131454-t1s44jr10tjk90coi8i2eete88rv4hk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zip.a1694163.geetanjali.quizapp",
+            "certificate_hash": "05f3b708c05677e786ad75ec4c4af79a369cea27"
+          }
+        },
+        {
+          "client_id": "843372131454-1lggk98jm97ml1uredh2kmrc6co63657.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zip.a1694163.geetanjali.quizapp",
+            "certificate_hash": "5066a4d4f046100bc9e2f33e4375fa56e29e2f1e"
+          }
+        },
+        {
+          "client_id": "843372131454-n4v1178uhb5k135d1lslhkqkme7dfgb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zip.a1694163.geetanjali.quizapp",
+            "certificate_hash": "e0daa4283961468b5343bdc489e0bde957cea978"
+          }
+        },
+        {
+          "client_id": "843372131454-q9u41kbhbjtudc05oj5g0pv9mcoj0k13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zip.a1694163.geetanjali.quizapp",
+            "certificate_hash": "97317be0b2cf2d4b62cb1c9535cd3c6fbccbcae5"
+          }
+        },
+        {
+          "client_id": "843372131454-s6diui9qug4flg9roauu6l1ka4a9n60f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpiv_1EQcJMfZ9i-SNOE_wmEe5DbmRfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843372131454-s6diui9qug4flg9roauu6l1ka4a9n60f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
